@@ -13,7 +13,10 @@ Data (mnist_all.mat) pre-processed in different program and saved as data1.mat f
 Some pictures from the output of the program:
 
 ![alt text](https://github.com/LuizFernandoCabral/BigDataExercise/blob/master/trainSet.png)
+Some of the input set (train and test)
 
 ![alt text](https://github.com/LuizFernandoCabral/BigDataExercise/blob/master/NN_layer1.png)
+Some of the output from layer 1
 
 ![alt text](https://github.com/LuizFernandoCabral/BigDataExercise/blob/master/ConsoleOutput.png)
+Console output from whole program
