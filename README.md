@@ -1,4 +1,4 @@
-Hand written numbers
+## Program that predicts which number is from some hand written numbers
 
 Neural network learn which number is which from labeled train set
 
@@ -8,4 +8,12 @@ Using external made function to optimize (faster) calculations and to display da
 
 Data obatined from: http://yann.lecun.com/exdb/mnist/
 
-Data pre-processed in different program and saved as .mat file
+Data (mnist_all.mat) pre-processed in different program and saved as data1.mat file
+
+Some pictures from the output of the program:
+
+![alt text](https://github.com/LuizFernandoCabral/BigDataExercise/blob/master/trainSet.png)
+
+![alt text](https://github.com/LuizFernandoCabral/BigDataExercise/blob/master/NN_layer1.png)
+
+![alt text](https://github.com/LuizFernandoCabral/BigDataExercise/blob/master/ConsoleOutput.png)
